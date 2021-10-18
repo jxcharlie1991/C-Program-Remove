@@ -1,11 +1,14 @@
 # C-Program-Remove
 
 ## Description
+
 This application is a shell script (to run on the Bourne shell) that can be used to remove some old C programs you no longer wish to keep.
+
+## Running
 
 This is implemented by Bash (Unix Shell), please download the code, transfer it to a Linux or Unix system, or transfer the code to a virtual machine which is installed a Linux or Unix system.
 
-## Then input the command.
+Then input the command in Linux/Unix command.
 
 ### 1. Add execute permission to delC.sh
 
@@ -15,7 +18,7 @@ This is implemented by Bash (Unix Shell), please download the code, transfer it 
 
 `./delC.sh`
 
-### 3. Test the program
+## Test
 
 To illustrate the behaviour of the script, the following are sample outputs. The $ is the shell prompt. The texts in & are not part of the sample output. They are hints indicating how your script should behave
 
